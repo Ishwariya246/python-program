@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main (){
+ int N,I;
+int factorial=';
+scanf("%d",&N);
+for (i=1;i<=n:i++){
+     factorial*=i;
+}
+  printf("%d\%d\n"factorial);
+  retrurn 0;
+}
